@@ -1,0 +1,11 @@
+DCN
+Java
+ADMS
+Mathematics
+Auto-mata
+DBMS
+C++
+Computer_Graphics
+OOAD
+SEPM
+ADS
